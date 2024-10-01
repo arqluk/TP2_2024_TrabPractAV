@@ -1,0 +1,2 @@
+"Este es un archivo de prueba"
+"Texto devuelto como un único string"
