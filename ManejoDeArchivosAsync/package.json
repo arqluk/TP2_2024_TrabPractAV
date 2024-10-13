@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "03-tp-async-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "mocha",
+    "tdd": "nodemon --exec mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "tp04-nuevo-cliente-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/cliente.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
